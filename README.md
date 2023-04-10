@@ -1,2 +1,2 @@
-# Ini-Soal-Substraksi
+# Ini Soal Substraksi
 Buat Tugas UTS
